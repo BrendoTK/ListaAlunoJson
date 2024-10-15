@@ -1,5 +1,4 @@
-{
-  "alunos": [
+"alunos": [
     {
       "id": 1,
       "nome": "Brendo",
@@ -36,4 +35,3 @@
       "frequencia": [false, true, true, false, true, true, true, true, false, true]
     }
   ]
-}
